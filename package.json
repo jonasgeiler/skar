@@ -1,7 +1,7 @@
 {
   "name": "skar",
   "description": "An awful tool for collecting many files into one archive file",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Skayo",
   "bin": {
     "skar": "./bin/run"

@@ -19,7 +19,7 @@ $ npm install -g skar
 $ skar COMMAND
 running command...
 $ skar (-v|--version|version)
-skar/1.0.1 win32-x64 node-v14.16.0
+skar/1.0.2 win32-x64 node-v14.16.0
 $ skar --help [COMMAND]
 USAGE
   $ skar COMMAND
@@ -57,7 +57,7 @@ ALIASES
   $ skar r
 ```
 
-_See code: [src/commands/append.ts](https://github.com/Skayo/skar/blob/v1.0.1/src/commands/append.ts)_
+_See code: [src/commands/append.ts](https://github.com/Skayo/skar/blob/v1.0.2/src/commands/append.ts)_
 
 ## `skar create FILE`
 
@@ -79,7 +79,7 @@ ALIASES
   $ skar c
 ```
 
-_See code: [src/commands/create.ts](https://github.com/Skayo/skar/blob/v1.0.1/src/commands/create.ts)_
+_See code: [src/commands/create.ts](https://github.com/Skayo/skar/blob/v1.0.2/src/commands/create.ts)_
 
 ## `skar delete PATTERN`
 
@@ -103,7 +103,7 @@ ALIASES
   $ skar rm
 ```
 
-_See code: [src/commands/delete.ts](https://github.com/Skayo/skar/blob/v1.0.1/src/commands/delete.ts)_
+_See code: [src/commands/delete.ts](https://github.com/Skayo/skar/blob/v1.0.2/src/commands/delete.ts)_
 
 ## `skar extract`
 
@@ -124,7 +124,7 @@ ALIASES
   $ skar x
 ```
 
-_See code: [src/commands/extract.ts](https://github.com/Skayo/skar/blob/v1.0.1/src/commands/extract.ts)_
+_See code: [src/commands/extract.ts](https://github.com/Skayo/skar/blob/v1.0.2/src/commands/extract.ts)_
 
 ## `skar help [COMMAND]`
 
@@ -164,7 +164,7 @@ ALIASES
   $ skar l
 ```
 
-_See code: [src/commands/list.ts](https://github.com/Skayo/skar/blob/v1.0.1/src/commands/list.ts)_
+_See code: [src/commands/list.ts](https://github.com/Skayo/skar/blob/v1.0.2/src/commands/list.ts)_
 
 ## `skar update FILE`
 
@@ -186,5 +186,5 @@ ALIASES
   $ skar u
 ```
 
-_See code: [src/commands/update.ts](https://github.com/Skayo/skar/blob/v1.0.1/src/commands/update.ts)_
+_See code: [src/commands/update.ts](https://github.com/Skayo/skar/blob/v1.0.2/src/commands/update.ts)_
 <!-- commandsstop -->
