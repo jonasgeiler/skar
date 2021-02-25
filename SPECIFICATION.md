@@ -23,7 +23,7 @@
 
 |  Type  | Offset | Length |          Description           |
 |--------|--------|--------|--------------------------------| 
-| uint16 | 0      | 2      | Signature to recognise the SKP file format, must be `0x91c2` |
+| uint16 | 0      | 2      | Signature to recognise the SKP file format, must be `0x5c12` |
 | uint8  | 2      | 1      | Version of the SKP file format |
 
 ### File Header
