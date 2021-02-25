@@ -1,6 +1,6 @@
 {
   "name": "skar",
-  "description": "A awful tool for collecting many files into one archive file",
+  "description": "An awful tool for collecting many files into one archive file",
   "version": "1.0.0",
   "author": "Skayo",
   "bin": {

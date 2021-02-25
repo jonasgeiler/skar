@@ -1,7 +1,7 @@
 skar
 ====
 
-A awful tool I've written for collecting many files into one archive file
+An awful tool I've written for collecting many files into one archive file (heavily inspired by tar)
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/skar.svg)](https://npmjs.org/package/skar)
@@ -50,6 +50,7 @@ ARGUMENTS
 OPTIONS
   -f, --file=file  (required) archive file to use
   -h, --help       show CLI help
+  -v, --verbose    show more verbose information
 
 ALIASES
   $ skar a
@@ -72,6 +73,7 @@ ARGUMENTS
 OPTIONS
   -f, --file=file  (required) archive file to use
   -h, --help       show CLI help
+  -v, --verbose    show more verbose information
 
 ALIASES
   $ skar c
@@ -93,6 +95,7 @@ ARGUMENTS
 OPTIONS
   -f, --file=file  (required) archive file to use
   -h, --help       show CLI help
+  -v, --verbose    show more verbose information
 
 ALIASES
   $ skar del
@@ -114,6 +117,7 @@ OPTIONS
   -d, --dest=dest  [default: .] output directory (defaults to current directory)
   -f, --file=file  (required) archive file to use
   -h, --help       show CLI help
+  -v, --verbose    show more verbose information
 
 ALIASES
   $ skar e
@@ -176,6 +180,7 @@ ARGUMENTS
 OPTIONS
   -f, --file=file  (required) archive file to use
   -h, --help       show CLI help
+  -v, --verbose    show more verbose information
 
 ALIASES
   $ skar u
